@@ -1,0 +1,1 @@
+- produkcja energii na świecie ze względu na typ: https://ourworldindata.org/grapher/solar-energy-consumption

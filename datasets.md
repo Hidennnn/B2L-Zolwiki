@@ -13,3 +13,15 @@ kaggle, 2017-2022, bez lokalizacji, bez powierzchni, sama pogoda i produkowana e
 - https://www.kaggle.com/datasets/ivnlee/solar-energy-production
 ## Modelowanie promieniowania słonecznego
 strona do pobierania danych - https://nsrdb.nrel.gov/data-viewer
+
+## stany w USA
+https://www.nrel.gov/grid/solar-power-data.html
+
+## Stacje bez danych pogodowych
+https://docs.google.com/spreadsheets/d/1N9_WOegtUQOuGrST-vpSX5R1MsJnpUjZ/edit?usp=sharing&ouid=113021176534384207719&rtpof=true&sd=true
+
+## Stations list
+https://docs.google.com/spreadsheets/d/1UBghC5PtlNUZ-yEGJXp-xA4Ssr3aCkUPGV11chtP1Rc/edit?usp=sharing
+
+
+## Stacje w Londynie 
