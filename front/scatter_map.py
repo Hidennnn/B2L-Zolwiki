@@ -36,7 +36,7 @@ def create_map_figure(data):
 
     # General layout updates for better visual contrast
     fig.update_layout(
-        title="City Outputs Map",
+        title="SOLAR – Site Optimization for Location and Array Recommendation",
         title_font=dict(size=24, color="white"),
         paper_bgcolor="rgb(20, 20, 20)",  # Dark background
         plot_bgcolor="rgb(20, 20, 20)",  # Dark plot area

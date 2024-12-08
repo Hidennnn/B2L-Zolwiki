@@ -11,7 +11,7 @@ data = pd.read_csv(csv_file_path)
 
 # Create the Dash app
 app = dash.Dash(__name__, suppress_callback_exceptions=True)  # Suppress callback exceptions
-app.title = "City Outputs Map"
+app.title = "SOLAR – Site Optimization for Location and Array Recommendation"
 
 # App layout
 app.layout = html.Div(
@@ -24,10 +24,10 @@ app.layout = html.Div(
                     style={'width': '20%', 'padding': '10px', 'backgroundColor': 'rgb(30, 30, 30)',
                            'borderRadius': '10px'},
                     children=[
-                        html.H2("Add City", style={'textAlign': 'center'}),
+                        html.H2("Add Location", style={'textAlign': 'center'}),
                         html.Div([
-                            html.Label("City Name:", style={'marginTop': '10px'}),
-                            dcc.Input(id='city-name', type='text', placeholder='Enter city name',
+                            html.Label("Name:", style={'marginTop': '10px'}),
+                            dcc.Input(id='city-name', type='text', placeholder='Enter name',
                                       style={'width': '100%'}),
                             html.Label("Latitude:", style={'marginTop': '10px'}),
                             dcc.Input(id='latitude', type='number', placeholder='Enter latitude',
