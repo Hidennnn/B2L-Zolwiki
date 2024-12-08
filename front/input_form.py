@@ -41,12 +41,6 @@ def create_input_form():
                 placeholder='Size (km²)',
                 style={'padding': '5px'}
             ),
-            dcc.Input(
-                id='output',
-                type='number',
-                placeholder='Output (MW)',
-                style={'padding': '5px'}
-            ),
             html.Button(
                 'Add Plant',
                 id='add-plant',
